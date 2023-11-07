@@ -1,6 +1,7 @@
 domain: nskernel.github.io
 url: https://nskernel.github.io
 baseurl: /
+production_url : https://nskernel.github.io
 repository: NSKernel/personal-site
 title: Minimal theme
 logo: /assets/img/logo.png
