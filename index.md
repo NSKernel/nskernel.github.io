@@ -22,13 +22,14 @@ The best way to contact me is through email (zhao DOT 3289 AT osu DOT edu).
 __Shixuan Zhao__, [Mengyuan Li](http://web.cse.ohio-state.edu/~li.7533/), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](http://web.cse.ohio-state.edu/~lin.3021/)<br/>
 In _Proceedings of the 43<sup>rd</sup> IEEE Symposium on Security and Privacy_ (S&P 2022)
 + __Reusable Enclaves for Confidential Serverless Computing__ [[PDF](asset/files/Reusable-Enclave.pdf)][[Slides](asset/files/Reusable-Enclave-Slides.pdf)][[Github](https://github.com/OSUSecLab/Reusable-Enclaves)]<br/>
-_Shixuan Zhao_, Pinshen Xu, [Guoxing Chen](https://donnod.github.io/), [Mengya Zhang](https://web.cse.ohio-state.edu/~zhang.9407/), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](http://web.cse.ohio-state.edu/~lin.3021/)<br/>
+__Shixuan Zhao__, Pinshen Xu, [Guoxing Chen](https://donnod.github.io/), [Mengya Zhang](https://web.cse.ohio-state.edu/~zhang.9407/), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](http://web.cse.ohio-state.edu/~lin.3021/)<br/>
 In _Proceedings of the 32<sup>nd</sup> USENIX Security Symposium_ (USENIX 2023)
 
 ## Services
 
 + EAI International Conference on Security and Privacy in Communication Networks 2022 (SecureComm’22), Reviewer
 + ACM Transactions on Privacy and Security, Reviewer
++ IEEE Internet of Things Journal, Reviewer
 
 ## Bio
 
