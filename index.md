@@ -2,122 +2,25 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# About
 
-[Link to another page](./another-page.html).
+I am a PhD student at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State University. My advisor is Professor [Zhiqiang Lin](http://web.cse.ohio-state.edu/~lin.3021/).
 
-There should be whitespace between paragraphs.
+My research interests are system software (operating systems, compilers, etc.) and TEE. 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The best way to contact me is through email (zhao DOT 3289 AT osu DOT edu).
 
-# Header 1
+## Research Interests
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
++ Operating Systems
++ Compilers
++ Trusted Execution Environments
 
-## Header 2
+## Publications
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+__vSGX: Virtualizing SGX Enclaves on AMD SEV__ [[PDF](assets/files/vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Slides](assets/files/Slides-vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Github](https://github.com/OSUSecLab/vSGX)]
+Shixuan Zhao, Mengyuan Li, Yinqian Zhang, Zhiqiang Lin.
+In Proceedings of the 43rd IEEE Symposium on Security and Privacy (S&P 2022)
+Reusable Enclaves for Confidential Serverless Computing [PDF][Slides][Github]
+Shixuan Zhao, Pinshen Xu, Guoxing Chen, Mengya Zhang, Yinqian Zhang, Zhiqiang Lin.
+In Proceedings of the 32nd USENIX Security Symposium (USENIX 2023)
