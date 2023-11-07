@@ -1,6 +1,7 @@
 domain: nskernel.github.io
 url: https://nskernel.github.io
 baseurl: /
+repository: NSKernel/personal-site
 title: Minimal theme
 logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
