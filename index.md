@@ -35,7 +35,7 @@ In _Proceedings of the 32<sup>nd</sup> USENIX Security Symposium_ (USENIX 2023)
 
 I  received my BSc from Nanjing University.
 
-I was a member of [SPAR](https://cs.nju.edu.cn/ics/spar/index.html)-Sys at [ICS](https://cs.nju.edu.cn/ics/index.html), Nanjing University, advised by Prof. [Yanyan Jiang](https://cs.nju.edu.cn/ics/people/yanyanjiang/index.html).
+I was a member of [SPAR](https://ics.nju.edu.cn/spar/index.html)-Sys at [ICS](https://ics.nju.edu.cn/index.html), Nanjing University, advised by Prof. [Yanyan Jiang](https://ics.nju.edu.cn/people/yanyanjiang/index.html).
 
 I worked as a research assistant at SUSTech, advised by Prof. [Yinqian Zhang](https://yinqian.org/).
 
