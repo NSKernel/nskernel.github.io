@@ -4,7 +4,7 @@ layout: default
 
 # About
 
-I am a PhD student at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State University. My advisor is Professor [Zhiqiang Lin](https://zhiqlin.github.io).
+I am a PhD candidate at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State University. My advisor is Professor [Zhiqiang Lin](https://zhiqlin.github.io).
 
 My research interests are system software (operating systems, compilers, etc.) and TEE. 
 
