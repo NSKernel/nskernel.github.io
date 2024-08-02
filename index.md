@@ -40,6 +40,8 @@ I was a member of [SPAR](https://ics.nju.edu.cn/spar/index.html)-Sys at [ICS](ht
 
 I worked as a research assistant at SUSTech, advised by Prof. [Yinqian Zhang](https://yinqian.org/).
 
+I worked as a research scientist intern at [IBM Research](https://research.ibm.com/), led by Dr. [Hani Jamjoom](http://jamjoom.net), mentored Dr. [Zhongshu Gu](https://gzs715.github.io) and Dr. [Salman Ahmed](https://salmanyam.github.io).
+
 ## Links
 
 + Github: [https://github.com/NSKernel](https://github.com/NSKernel)
