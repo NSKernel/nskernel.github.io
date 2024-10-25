@@ -19,7 +19,7 @@ The best way to contact me is through email (zhao DOT 3289 AT osu DOT edu).
 ## Publications
 
 + __vSGX: Virtualizing SGX Enclaves on AMD SEV__ [[PDF](assets/files/vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Slides](assets/files/Slides-vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Github](https://github.com/OSUSecLab/vSGX)]<br/>
-__Shixuan Zhao__, [Mengyuan Li](https://people.csail.mit.edu/mengyuanli/), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+__Shixuan Zhao__, [Mengyuan Li](https://mengyuan-l.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
 In _Proceedings of the 43<sup>rd</sup> IEEE Symposium on Security and Privacy_ (S&P 2022)
 + __Reusable Enclaves for Confidential Serverless Computing__ [[PDF](assets/files/Reusable-Enclave.pdf)][[Slides](assets/files/Reusable-Enclave-Slides.pdf)][[Github](https://github.com/OSUSecLab/Reusable-Enclaves)]<br/>
 __Shixuan Zhao__, Pinshen Xu, [Guoxing Chen](https://donnod.github.io/), [Mengya Zhang](https://miazmy1221.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
