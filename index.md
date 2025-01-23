@@ -27,6 +27,7 @@ In _Proceedings of the 32<sup>nd</sup> USENIX Security Symposium_ (USENIX 2023)
 
 ## Services
 
++ USENIX Security Symposium 2025, Artefact Evaluation Committee Member
 + EAI International Conference on Edge Computing and IoT 2024 (ICECI'24), TPC Member
 + EAI International Conference on Security and Privacy in Communication Networks 2022 (SecureComm'22), Reviewer
 + ACM Transactions on Privacy and Security, Reviewer
