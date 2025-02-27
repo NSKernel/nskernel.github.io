@@ -8,7 +8,7 @@ I am a PhD candidate at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State
 
 My research interests are system software (operating systems, compilers, etc.) and TEE. 
 
-The best way to contact me is through email (zhao DOT 3289 AT osu DOT edu).
+The best way to contact me is through email (zhao DOT 3289 AT buckeyemail DOT osu DOT edu).
 
 ## Research Interests
 
