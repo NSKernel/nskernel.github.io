@@ -24,6 +24,9 @@ In _Proceedings of the 43<sup>rd</sup> IEEE Symposium on Security and Privacy_ (
 + __Reusable Enclaves for Confidential Serverless Computing__ [[PDF](assets/files/Reusable-Enclave.pdf)][[Slides](assets/files/Reusable-Enclave-Slides.pdf)][[Github](https://github.com/OSUSecLab/Reusable-Enclaves)]<br/>
 __Shixuan Zhao__, Pinshen Xu, [Guoxing Chen](https://donnod.github.io/), [Mengya Zhang](https://miazmy1221.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
 In _Proceedings of the 32<sup>nd</sup> USENIX Security Symposium_ (USENIX 2023)
++ __Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation__ [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-703-paper.pdf)][[Github](https://github.com/OSUSecLab/AnonymizationLayer)]<br/>
+[Christopher Ellis](https://scholar.google.com/citations?user=ilCt8ioAAAAJ), [Yue Zhang](https://yue.zyueinfosec.com), [Mohit Kumar Jangid](https://mohitwrangler.github.io), __Shixuan Zhao__, [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+In _Proceedings of the Network and Distributed System Security Symposium 2025_ (NDSS 2025)
 
 ## Services
 
