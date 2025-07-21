@@ -4,9 +4,9 @@ layout: default
 
 # About
 
-I am a PhD candidate at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State University. My advisor is Professor [Zhiqiang Lin](https://zhiqlin.github.io).
+I am a PhD candidate at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State University. My advisor is Professor [Zhiqiang Lin](https://zhiqlin.github.io). You can find my CV [here](assets/files/CV.pdf).
 
-My research interests are system software (operating systems, compilers, etc.) and TEE. 
+My research interests are system software (operating systems, compilers, etc.) and Trusted Execution Environments (TEEs). 
 
 The best way to contact me is through email (zhao DOT 3289 AT buckeyemail DOT osu DOT edu).
 
@@ -14,27 +14,43 @@ The best way to contact me is through email (zhao DOT 3289 AT buckeyemail DOT os
 
 + Operating Systems
 + Compilers
-+ Trusted Execution Environments
++ Trusted Execution Environments (Enclaves, CVMs)
 
-## Publications
+## Selected Publications
 
-+ __vSGX: Virtualizing SGX Enclaves on AMD SEV__ [[PDF](assets/files/vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Slides](assets/files/Slides-vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Github](https://github.com/OSUSecLab/vSGX)]<br/>
-__Shixuan Zhao__, [Mengyuan Li](https://mengyuan-l.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
-In _Proceedings of the 43<sup>rd</sup> IEEE Symposium on Security and Privacy_ (S&P 2022)
-+ __Reusable Enclaves for Confidential Serverless Computing__ [[PDF](assets/files/Reusable-Enclave.pdf)][[Slides](assets/files/Reusable-Enclave-Slides.pdf)][[Github](https://github.com/OSUSecLab/Reusable-Enclaves)]<br/>
-__Shixuan Zhao__, Pinshen Xu, [Guoxing Chen](https://donnod.github.io/), [Mengya Zhang](https://miazmy1221.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
-In _Proceedings of the 32<sup>nd</sup> USENIX Security Symposium_ (USENIX 2023)
+For a full list, refer to my [CV](assets/files/CV.pdf).
+
+### Top-Tier Conferences
+
++ (Under minor revision) __GPU Travelling: Efficient Confidential Collaborative Training with TEE-Enabled GPUs__<br/>
+__Shixuan Zhao__, [Zhongshu Gu](https://gzs715.github.io), [Salman Ahmed](https://salmanyam.github.io), Enriquillo Valdez, [Hani Jamjoom](https://jamjoom.net), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+__ACM CCS 2025__
 + __Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation__ [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-703-paper.pdf)][[Github](https://github.com/OSUSecLab/AnonymizationLayer)]<br/>
 [Christopher Ellis](https://scholar.google.com/citations?user=ilCt8ioAAAAJ), [Yue Zhang](https://yue.zyueinfosec.com), [Mohit Kumar Jangid](https://mohitwrangler.github.io), __Shixuan Zhao__, [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
-In _Proceedings of the Network and Distributed System Security Symposium 2025_ (NDSS 2025)
+__NDSS 2025__
++ __Reusable Enclaves for Confidential Serverless Computing__ [[PDF](assets/files/Reusable-Enclave.pdf)][[Slides](assets/files/Reusable-Enclaves-Slides.pdf)][[Github](https://github.com/OSUSecLab/Reusable-Enclaves)]<br/>
+__Shixuan Zhao__, Pinshen Xu, [Guoxing Chen](https://donnod.github.io/), [Mengya Zhang](https://miazmy1221.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+__USENIX Security 2023__
++ __vSGX: Virtualizing SGX Enclaves on AMD SEV__ [[PDF](assets/files/vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Slides](assets/files/Slides-vSGX-Virtualizing-SGX-Enclaves-on-AMD-SEV.pdf)][[Github](https://github.com/OSUSecLab/vSGX)]<br/>
+__Shixuan Zhao__, [Mengyuan Li](https://mengyuan-l.github.io), [Yinqian Zhang](http://yinqian.org/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+__IEEE S&P 2022__
+
+### SoK
+
++ __NVIDIA GPU Confidential Computing Demystified__ [[PDF](https://arxiv.org/pdf/2507.02770v1)] <br/>
+[Zhongshu Gu](https://gzs715.github.io), Enriquillo Valdez, [Salman Ahmed](https://salmanyam.github.io), [Julian James Stephen](https://research.ibm.com/people/julian-james-stephen), Michael Le, [Hani Jamjoom](https://jamjoom.net), __Shixuan Zhao__, [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+__arXiv:2507.02770v1__
 
 ## Services
 
-+ USENIX Security Symposium 2025, Artefact Evaluation Committee Member
-+ EAI International Conference on Edge Computing and IoT 2024 (ICECI'24), TPC Member
-+ EAI International Conference on Security and Privacy in Communication Networks 2022 (SecureComm'22), Reviewer
++ EAI ICECI 2024, TPC Member
++ EAI SecureComm 2022, Reviewer
 + ACM Transactions on Privacy and Security, Reviewer
 + IEEE Internet of Things Journal, Reviewer
++ IEEE S&P 2021-2025 Reviewer
++ USENIX Security 2021-2024, Reviewer
++ USENIX Security 2025, Artefact Evaluation Committee Member
++ ACM CCS 2021-2024, Reviewer
 
 ## Bio
 
@@ -45,6 +61,8 @@ I was a member of [SPAR](https://ics.nju.edu.cn/spar/index.html)-Sys at [ICS](ht
 I worked as a research assistant at SUSTech, advised by Prof. [Yinqian Zhang](https://yinqian.org/).
 
 I worked as a research scientist intern at [IBM Research](https://research.ibm.com/), led by Dr. [Hani Jamjoom](http://jamjoom.net), mentored Dr. [Zhongshu Gu](https://gzs715.github.io) and Dr. [Salman Ahmed](https://salmanyam.github.io).
+
+I worked as a research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/), led by Dr. [Weidong Cui](https://www.microsoft.com/en-us/research/people/wdcui/), mentored Dr. [Ziqiao Zhou](https://ziqiaozhou.github.io) and Dr. [Sangho Lee](https://sangho2.github.io).
 
 ## Links
 
