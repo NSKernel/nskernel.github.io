@@ -22,9 +22,6 @@ For a full list, refer to my [CV](assets/files/CV.pdf).
 
 ### Top-Tier Conferences
 
-+ (Under minor revision) __GPU Travelling: Efficient Confidential Collaborative Training with TEE-Enabled GPUs__<br/>
-__Shixuan Zhao__, [Zhongshu Gu](https://gzs715.github.io), [Salman Ahmed](https://salmanyam.github.io), Enriquillo Valdez, [Hani Jamjoom](https://jamjoom.net), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
-__ACM CCS 2025__
 + __Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation__ [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-703-paper.pdf)][[Github](https://github.com/OSUSecLab/AnonymizationLayer)]<br/>
 [Christopher Ellis](https://scholar.google.com/citations?user=ilCt8ioAAAAJ), [Yue Zhang](https://yue.zyueinfosec.com), [Mohit Kumar Jangid](https://mohitwrangler.github.io), __Shixuan Zhao__, [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
 __NDSS 2025__
