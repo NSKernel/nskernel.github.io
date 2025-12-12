@@ -22,7 +22,7 @@ For a full list, refer to my [CV](assets/files/CV.pdf).
 
 ### Top-Tier Conferences
 
-+ __GPU Travelling: Efficient Confidential Collaborative Training with TEE-Enabled GPUs__<br/>
++ __GPU Travelling: Efficient Confidential Collaborative Training with TEE-Enabled GPUs__ [[PDF](https://dl.acm.org/doi/pdf/10.1145/3719027.3765029)][[Slides](assets/files/GPU-Travelling-Slides.pdf)][[Zenodo](https://zenodo.org/records/16899384)]<br/>
 __Shixuan Zhao__, [Zhongshu Gu](https://gzs715.github.io), [Salman Ahmed](https://salmanyam.github.io), Enriquillo Valdez, [Hani Jamjoom](https://jamjoom.net), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
 __ACM CCS 2025__
 + __Deanonymizing Device Identities via Side-channel Attacks in Exclusive-use IoTs & Mitigation__ [[PDF](https://www.ndss-symposium.org/wp-content/uploads/2025-703-paper.pdf)][[Github](https://github.com/OSUSecLab/AnonymizationLayer)]<br/>
@@ -43,6 +43,7 @@ __arXiv:2507.02770v1__
 
 ## Services
 
++ ACM CCS 2026, PC Member
 + EAI ICECI 2024, TPC Member
 + EAI SecureComm 2022, Reviewer
 + ACM Transactions on Privacy and Security, Reviewer
