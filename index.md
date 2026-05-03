@@ -4,9 +4,7 @@ layout: default
 
 # About
 
-I am a PhD candidate at [SecLab](https://go.osu.edu/seclab), CSE, The Ohio State University. My advisor is Professor [Zhiqiang Lin](https://zhiqlin.github.io). You can find my CV [here](assets/files/CV.pdf).
-
-My research interests are system software (operating systems, compilers, etc.) and Trusted Execution Environments (TEEs). 
+I am a researcher working on system software and trusted computing. You can find my CV [here](assets/files/CV.pdf). I am on the job market at the moment.
 
 The best way to contact me is through email (zhao DOT 3289 AT buckeyemail DOT osu DOT edu).
 
@@ -22,6 +20,9 @@ For a full list, refer to my [CV](assets/files/CV.pdf).
 
 ### Top-Tier Conferences
 
++ __Styx: Collaborative and Private Data Processing With TEE-Enforced Sticky Policy__ <br/>
+__Shixuan Zhao__, Weicheng Wang, [Ninghui Li](https://www.cs.purdue.edu/homes/ninghui/), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
+__ACM/IFIP Middleware 2026__
 + __GPU Travelling: Efficient Confidential Collaborative Training with TEE-Enabled GPUs__ [[PDF](https://dl.acm.org/doi/pdf/10.1145/3719027.3765029)][[Slides](assets/files/GPU-Travelling-Slides.pdf)][[Zenodo](https://zenodo.org/records/16899384)]<br/>
 __Shixuan Zhao__, [Zhongshu Gu](https://gzs715.github.io), [Salman Ahmed](https://salmanyam.github.io), Enriquillo Valdez, [Hani Jamjoom](https://jamjoom.net), [Zhiqiang Lin](https://zhiqlin.github.io)<br/>
 __ACM CCS 2025__
@@ -44,6 +45,7 @@ __arXiv:2507.02770v1__
 ## Services
 
 + ACM CCS 2026, PC Member
++ RAID 2026, PC Member
 + EAI ICECI 2024, TPC Member
 + EAI SecureComm 2022, Reviewer
 + ACM Transactions on Privacy and Security, Reviewer
@@ -55,7 +57,9 @@ __arXiv:2507.02770v1__
 
 ## Bio
 
-I  received my BSc from Nanjing University.
+I received my BSc from Nanjing University.
+
+I received my PhD from The Ohio State University. My advisor was Professor [Zhiqiang Lin](https://zhiqlin.github.io).
 
 I was a member of [SPAR](https://ics.nju.edu.cn/spar/index.html)-Sys at [ICS](https://ics.nju.edu.cn/index.html), Nanjing University, advised by Prof. [Yanyan Jiang](https://ics.nju.edu.cn/people/yanyanjiang/index.html).
 
@@ -67,7 +71,7 @@ I worked as a research intern at [Microsoft Research](https://www.microsoft.com/
 
 ## Links
 
-+ Github: [https://github.com/NSKernel](https://github.com/NSKernel)
++ GitHub: [https://github.com/NSKernel](https://github.com/NSKernel)
 
 ## PGP Key
 
